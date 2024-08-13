@@ -1,0 +1,4 @@
+(executable
+ (public_name truncate_df_midi)
+ (name main)
+ (libraries str))

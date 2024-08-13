@@ -1,0 +1,4 @@
+*.mid
+*.csv
+_build/
+*~
